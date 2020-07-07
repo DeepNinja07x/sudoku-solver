@@ -4,7 +4,7 @@ Now you are good to go !
 
 ## Setup the Project
 
-1. Goto the [sudoku-solver](https://github.com/The-Codesis/simple-static-website/) repository
+1. Goto the [sudoku-solver](https://github.com/The-Codesis/sudoku-solver.git) repository
 2. Click on the Fork button in the upper right corner.
 
 Introduce your self to GIT, make sure you use an email associated with your GitHub account.
