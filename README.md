@@ -50,7 +50,7 @@ Setting up Tensorflow 2.0 for GPU is a little tricky, so you can skip doing that
 Go to the folder where you cloned the project
 
 ```
-cd sudoku_solver
+cd sudoku-solver
 ```
 
 **Install the requirements from requirements.txt**
